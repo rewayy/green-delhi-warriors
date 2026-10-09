@@ -1,0 +1,14 @@
+{
+  "name": "green-delhi-warriors",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{js,css}\""
+  },
+  "dependencies": { "firebase": "^11.0.0" },
+  "devDependencies": { "prettier": "^3.3.0", "vite": "^5.4.0" }
+}

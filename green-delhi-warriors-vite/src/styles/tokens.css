@@ -1,0 +1,5 @@
+:root{--deep:#0b1730;--bg:#eef1f8;--card:#fff;--ink:#0b1730;--mut:#5b6785;--line:#e1e6f2;--leaf:#14c47a;--sun:#ffb938;--coral:#ff5a6e;--sky:#3ec6f2;--vio:#7a5cff;--g:#0f9d62;--gl:#e3f7ee;--o:#ff9248;
+--fd:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;--fb:"Plus Jakarta Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0a1224;--card:#121d38;--ink:#eaf0ff;--mut:#9aa8c9;--line:#22305a;--gl:#12342f}}
+:root[data-theme="dark"]{--bg:#0a1224;--card:#121d38;--ink:#eaf0ff;--mut:#9aa8c9;--line:#22305a;--gl:#12342f}
